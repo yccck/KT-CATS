@@ -41,7 +41,7 @@ KT-CATS/
 │
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
-
+```
 ---
 
 ## 🛠️ System Requirements (Preview)
