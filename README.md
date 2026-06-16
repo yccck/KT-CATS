@@ -53,4 +53,5 @@ The codebase requires Python 3.8+ and the following primary libraries:
 - openai
 - scipy
 - matplotlib & seaborn
+
 Detailed installation instructions and configuration steps will be updated upon release.
