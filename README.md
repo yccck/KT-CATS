@@ -42,6 +42,8 @@ KT-CATS/
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 
+---
+
 ## 🛠️ System Requirements (Preview)
 The codebase requires Python 3.8+ and the following primary libraries:
 - torch >= 2.0
